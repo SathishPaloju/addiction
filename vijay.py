@@ -14,8 +14,6 @@ arr = [12, 3, 4, 15]
 # calculating length of array 
 n = len(arr) 
 
-ans = _sum(arr,n) 
-
 # display sum 
 print ('Sum of the array is ', ans) 
 
